@@ -6,7 +6,7 @@ from __future__ import annotations
 import requests
 import logging
 from fastapi import FastAPI, Request
-from constants import VERSION
+from whatsapp.constants import VERSION
 
 
 
